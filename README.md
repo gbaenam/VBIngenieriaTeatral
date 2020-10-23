@@ -1,2 +1,2 @@
 # VBIngenieriaTeatral
-Repositorio del sitio web de VB Ingeniería Teatral
+Repositorio del Sitio Web de VB Ingeniería Teatral
